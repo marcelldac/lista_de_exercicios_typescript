@@ -2,8 +2,7 @@
 function somarArray(ar) {
     let soma = 0;
     for (let i = 0; i < ar.length; i++) {
-        console.log(ar[i]);
-        /* soma += ar[i]; */
+        soma += ar[i];
     }
     return soma;
 }
