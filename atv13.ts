@@ -1,14 +1,14 @@
 //Calcule a soma de todos os dígitos de um número inteiro positivo
 
-function somarDigitos(n: number): number {
-  var s: string = n.toString();
-  var soma: number = 0;
-  for (var char of s) {
-    var digito: number = parseInt(char);
-    soma += digito;
+function sumDigits(num: number): number {
+  let stringNumber: string = num.toString();
+  let sum: number = 0;
+  for (let character of stringNumber) {
+    let digit: number = parseInt(character);
+    sum += digit;
   }
-  return soma;
+  return sum;
 }
 
-var resultado: number = somarDigitos(1235231);
-console.log("Soma de todos os dígitos: ", resultado);
+let resu: number = sumDigits(120);
+console.log("Soma de todos os dígitos: ", resu);
