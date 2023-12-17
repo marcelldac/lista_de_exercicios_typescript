@@ -1,11 +1,12 @@
 
-# Lisa de Exercícios para Typescript
+# Lisa de Exercícios para Typescript 💙💙💙
 
 __Contribua para o projeto:__
 
 - Siga a numeração do exercício, sempre adicionando um a mais a partir do último exercício criado.
 - Você é livre para escrever o código em português ou inglês.
-- Você é livre, para que no mesmo arquivo, faça diferentes formas do mesmo algoritmo, mas sempre lembrando do retorno pedido pela questão.
+- Você é livre, para que no mesmo arquivo, faça diferentes formas do mesmo algoritmo, mas sempre se atentando ao retorno pedido pela questão.
+- Ideias consolidadas, agora crie sua branch e dê seu pull request! :)
 - __Let's Code!__
 ## Instalação
 
