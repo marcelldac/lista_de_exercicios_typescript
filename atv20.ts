@@ -3,6 +3,7 @@ Criar uma função que junte dois arrays e retorno o resultado como um novo arra
 */
 
 //Forma 1
+
 /* function mixArrays(arr1: number[], arr2: number[]): number[] {
   let arr: number[] = [];
   for (let element of arr1) {
@@ -31,6 +32,7 @@ const mix: number[] = mixArrays(arr1, arr2);
 console.log(mix);
 
 //Forma 3: Juntando arrays mudando sua dimensão
+
 /* const arr3: number[] = [1, 2, 3];
 const arr4: number[] = [4, 5, 6];
 const arr3and4: number[][] = [arr3, arr4];
