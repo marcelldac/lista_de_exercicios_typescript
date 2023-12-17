@@ -5,7 +5,7 @@ function numeroPrimo(n: number): boolean {
   if (n === 2) return true;
   //Math.sqrt() retorna a raiz quadrada de um número
   var maxDiv = Math.sqrt(n);
-  for (var i = 2; i <= maxDiv; i++) {
+  for (let i = 2; i <= maxDiv; i++) {
     if (n % i === 0) {
       return false;
     }
