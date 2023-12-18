@@ -1,20 +1,20 @@
-
 # Lista de Exercícios para Typescript 💙💙💙
 
-__Contribua para o projeto:__
+**Contribua para o projeto:**
 
 - Siga a numeração do exercício, sempre adicionando um a mais a partir do último exercício criado.
 - Você é livre para escrever o código em português ou inglês.
 - Você é livre, para que no mesmo arquivo, faça diferentes formas do mesmo algoritmo, mas sempre se atentando ao retorno pedido pela questão.
 - Ideias consolidadas, agora crie sua branch e dê seu pull request! :)
-- __Let's Code!__
+- **Let's Code!**
+
 ## Instalação
 
 Suporte a
 
-| NPM   | Yarn | PNPM   | 
-|----------|:---------|:--------:|
-| ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) | ![yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) | ![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) 
+| NPM                                                                                          | Yarn                                                                                                   |                                                  PNPM                                                   |
+| -------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------: |
+| ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) | ![yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) | ![pnpm](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) |
 
 ```bash
   git clone https://github.com/marcelldac/lista_de_exercicios_typescript
@@ -23,8 +23,7 @@ Suporte a
   tsc
   node dist/<nome_do_arquivo>.js
 ```
-    
+
 ## Autor
 
 - [@marcelldac](https://www.github.com/marcelldac)
-
