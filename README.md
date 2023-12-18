@@ -1,5 +1,5 @@
 
-# Lisa de Exercícios para Typescript 💙💙💙
+# Lista de Exercícios para Typescript 💙💙💙
 
 __Contribua para o projeto:__
 
